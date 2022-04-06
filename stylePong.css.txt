@@ -1,0 +1,9 @@
+#canvas {
+    border: 1px dashed #000000;
+   
+}
+
+#titulo{
+    user-select: none;
+    pointer-events: none;
+}

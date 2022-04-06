@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <style>
+    body {
+      background-color: grey;
+    }
+    </style>
+    </head>
+    <body>
+<html lang="en">
+    <meta charset="utf-8" />
+<h1 id="titulo"><center>Jogo Pong - Fabricio</center></h1>
+<div class="container">
+    <center>
+      <canvas id="canvas" width="1300" height="480">
+    Navegador não suportado :c
+    </center>
+</canvas>
+</div>
+<script src="jquery.js"></script>
+<link rel="stylesheet" href="stylePong.css">
+<script src="script.js"></script>
